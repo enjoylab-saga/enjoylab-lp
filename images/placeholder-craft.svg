@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="クラフト雑貨づくりの仮画像">
+  <rect width="900" height="680" fill="#f7ecd8"/>
+  <circle cx="190" cy="170" r="86" fill="#f26322" opacity="0.82"/>
+  <circle cx="706" cy="154" r="68" fill="#f6b62d" opacity="0.9"/>
+  <rect x="188" y="310" width="210" height="210" rx="28" fill="#fffdf8" stroke="#6f4d35" stroke-width="10"/>
+  <rect x="498" y="286" width="250" height="164" rx="26" fill="#12a982" opacity="0.88"/>
+  <path d="M280 414 C360 336 430 524 524 414 S670 322 730 402" fill="none" stroke="#78b844" stroke-width="20" stroke-linecap="round"/>
+</svg>

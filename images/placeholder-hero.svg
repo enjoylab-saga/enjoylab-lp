@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="木製工芸とクラフト作業の仮画像">
+  <defs>
+    <linearGradient id="wood" x1="0" x2="1">
+      <stop offset="0" stop-color="#8a5a32"/>
+      <stop offset="0.45" stop-color="#c88d4f"/>
+      <stop offset="1" stop-color="#f0c37e"/>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence baseFrequency="0.018 0.09" numOctaves="4" seed="12"/>
+      <feColorMatrix type="saturate" values="0.35"/>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="1000" fill="#f7ecd8"/>
+  <rect width="1600" height="1000" fill="url(#wood)" filter="url(#grain)" opacity="0.95"/>
+  <circle cx="1260" cy="210" r="180" fill="#f6b62d" opacity="0.26"/>
+  <circle cx="1340" cy="780" r="260" fill="#12a982" opacity="0.2"/>
+  <g transform="translate(800 500) rotate(-9)">
+    <rect x="-260" y="-150" width="520" height="300" rx="18" fill="#f9e4ba" stroke="#6f4d35" stroke-width="12"/>
+    <path d="M-220 -96 C-80 -40 70 -150 218 -76" fill="none" stroke="#9b6232" stroke-width="16" stroke-linecap="round" opacity="0.65"/>
+    <path d="M-210 -20 C-70 50 64 -58 218 12" fill="none" stroke="#9b6232" stroke-width="14" stroke-linecap="round" opacity="0.58"/>
+    <path d="M-214 66 C-84 118 72 28 218 94" fill="none" stroke="#9b6232" stroke-width="12" stroke-linecap="round" opacity="0.52"/>
+  </g>
+  <g transform="translate(1120 560)">
+    <rect x="-62" y="-220" width="124" height="440" rx="26" fill="#6f4d35"/>
+    <rect x="-24" y="-190" width="48" height="150" rx="18" fill="#f26322"/>
+    <rect x="-90" y="88" width="180" height="90" rx="36" fill="#f6b62d"/>
+  </g>
+  <g transform="translate(1320 415)" fill="none" stroke-linecap="round">
+    <path d="M-90 120 C-22 -12 72 -50 132 -150" stroke="#12a982" stroke-width="20"/>
+    <path d="M0 40 C52 42 100 20 130 -20" stroke="#78b844" stroke-width="18"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="木製工芸の仮画像">
+  <rect width="900" height="680" fill="#fffaf0"/>
+  <rect y="420" width="900" height="260" fill="#e1bd82"/>
+  <path d="M0 470 C170 420 250 520 420 468 S710 410 900 468" fill="none" stroke="#b98045" stroke-width="26" opacity="0.45"/>
+  <g transform="translate(452 348)">
+    <rect x="-220" y="-106" width="440" height="212" rx="16" fill="#d99a55" stroke="#6f4d35" stroke-width="10"/>
+    <path d="M-178 -54 C-65 8 42 -86 180 -36" fill="none" stroke="#8b552e" stroke-width="14" stroke-linecap="round" opacity="0.62"/>
+    <path d="M-176 26 C-42 84 66 -26 180 42" fill="none" stroke="#8b552e" stroke-width="12" stroke-linecap="round" opacity="0.55"/>
+  </g>
+  <circle cx="168" cy="160" r="62" fill="#f6b62d" opacity="0.78"/>
+  <path d="M640 180 L720 118 L800 180 L760 286 L680 286 Z" fill="#12a982" opacity="0.82"/>
+</svg>

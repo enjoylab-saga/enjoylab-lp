@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="明るい作業スペースの仮画像">
+  <rect width="900" height="680" fill="#fffaf0"/>
+  <rect y="408" width="900" height="272" fill="#ead7b7"/>
+  <rect x="120" y="90" width="250" height="190" rx="12" fill="#fffdf8" stroke="#6f4d35" stroke-width="8"/>
+  <rect x="530" y="90" width="250" height="190" rx="12" fill="#fffdf8" stroke="#6f4d35" stroke-width="8"/>
+  <path d="M245 90 V280 M120 185 H370 M655 90 V280 M530 185 H780" stroke="#ead7b7" stroke-width="8"/>
+  <rect x="190" y="360" width="520" height="90" rx="16" fill="#c88d4f" stroke="#6f4d35" stroke-width="8"/>
+  <rect x="240" y="448" width="28" height="122" fill="#6f4d35"/>
+  <rect x="632" y="448" width="28" height="122" fill="#6f4d35"/>
+  <circle cx="450" cy="404" r="44" fill="#12a982"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="地図の仮画像">
+  <rect width="900" height="680" fill="#fffaf0"/>
+  <path d="M0 188 H900 M0 344 H900 M0 500 H900 M180 0 V680 M390 0 V680 M670 0 V680" stroke="#d7bd95" stroke-width="16" opacity="0.7"/>
+  <path d="M90 560 C220 390 350 430 460 282 S650 148 810 118" fill="none" stroke="#12a982" stroke-width="36" stroke-linecap="round" opacity="0.76"/>
+  <path d="M450 224 C510 224 558 272 558 332 C558 420 450 506 450 506 C450 506 342 420 342 332 C342 272 390 224 450 224Z" fill="#f26322"/>
+  <circle cx="450" cy="332" r="42" fill="#fffdf8"/>
+</svg>
